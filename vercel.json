@@ -1,0 +1,10 @@
+```json
+   {
+     "crons": [
+       {
+         "path": "/api/index",
+         "schedule": "0 23 * * *"
+       }
+     ]
+   }
+   ```
